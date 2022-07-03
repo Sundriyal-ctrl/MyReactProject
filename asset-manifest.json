@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyReactProject/static/css/main.f65e1f22.css",
+    "main.js": "/MyReactProject/static/js/main.5dce2dc7.js",
+    "static/js/787.fb265414.chunk.js": "/MyReactProject/static/js/787.fb265414.chunk.js",
+    "static/media/Java.jpg": "/MyReactProject/static/media/Java.65cb7e1c7670def0514e.jpg",
+    "static/media/wp.jpg": "/MyReactProject/static/media/wp.40c696bd5ae8dd0e290e.jpg",
+    "static/media/main.jpg": "/MyReactProject/static/media/main.fd75847fcdd279e9ec9f.jpg",
+    "static/media/slick.svg": "/MyReactProject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MyReactProject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MyReactProject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/MyReactProject/index.html",
+    "static/media/slick.woff": "/MyReactProject/static/media/slick.295183786cd8a1389865.woff",
+    "main.f65e1f22.css.map": "/MyReactProject/static/css/main.f65e1f22.css.map",
+    "main.5dce2dc7.js.map": "/MyReactProject/static/js/main.5dce2dc7.js.map",
+    "787.fb265414.chunk.js.map": "/MyReactProject/static/js/787.fb265414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65e1f22.css",
+    "static/js/main.5dce2dc7.js"
+  ]
+}
