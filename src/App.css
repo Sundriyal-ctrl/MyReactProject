@@ -1,0 +1,149 @@
+#d
+{
+  background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('wp.jpg');
+        height:65vh;
+        background-size:cover;
+        background-repeat:no-repeat;
+       
+}
+#navbarSupportedContent ul li a{
+  color:darkcyan;
+  font-weight: 700;
+}
+.navbar .navbar-brand{
+  color:aqua;
+  font-weight:800;
+}
+form span{
+  color:darkcyan;
+  font-weight:700;
+}
+#ji
+{
+  border:2px solid darkcyan;
+  border-radius:30px;
+  font-size:12px;
+  color:darkcyan;
+  background-color:white;
+  cursor: pointer;
+}
+#search
+{
+  padding-top:120px;
+  padding-left:200px;
+  padding-right:210px;
+}
+#search input
+{
+  height:55px;
+   border-top-left-radius:20px;
+   border-bottom-left-radius:20px;
+}
+
+
+#bs button
+{
+  height:55px;
+  border-bottom-right-radius:20px;
+  border-top-right-radius:20px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius:0px;
+  padding:0 40px 0px 40px;
+  background-color:darkcyan;
+  color:white;
+  font-weight:800;
+}
+@media only screen and (max-width:800px)
+{
+  
+  #search 
+  {
+    
+    padding-top:70px;
+  padding-left:20px;
+    padding-right:20px;
+    
+  }
+ #tex
+ {
+   padding:100px 20px 0 20px;
+   font-size:2.1rem;
+  
+ }
+ #go
+ {
+   padding-left:18px;
+ }
+ #ll
+ {
+   margin:10px;
+   padding:10px;
+ }
+ #formm
+  {
+    
+  }
+  #loginimg #formm 
+  {
+    width:80%;
+    margin-left:40px;
+  }
+
+}
+#tex
+{
+  padding-top:100px;
+  font-size:2.3rem;
+  color:white;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#go .col-sm-4 i{
+  font-size:40px;
+}
+
+#go .col-sm-4{
+  padding-left:70px;
+}
+#latest
+{
+  padding:30px;
+}
+#latest .col-sm-4 .card{
+  padding:25px;
+}
+
+#ll h4{
+  padding-top:20px;
+}
+
+#icon i
+{
+  padding:20px;
+}
+.foo
+{
+  background-color:whitesmoke;
+}
+#last
+{
+ background-color:gray;
+ padding:10px;
+}
+#formm
+{
+  width:29%;
+  border-radius:20px;
+  margin-left:100px;
+  box-shadow:20px;
+}
+#loginimg
+{
+  background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('main.jpg');
+ height:90vh;
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding-top:10px;  
+
+}
